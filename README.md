@@ -1,6 +1,6 @@
 ### Hi there 👋  Sou apenas um desenvolvedor.. 
 
-- 🔭 I’m currently working on  desenvolvimentos de prejetos
+- 🔭 I’m currently working on  desenvolvimentos de  projetos 
 - 🌱 Estudando redes neurais 
 - 📫 contate-me email: lucasgfo25@gmail.com
 - 😄 Pronouns: ele/dele
